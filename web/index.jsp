@@ -13,6 +13,7 @@
   </head>
   <body>
   <% Date date = new Date();
-  out.print("12345");%>
+  out.print("12345");
+  out.print("54321");%>
   </body>
 </html>
